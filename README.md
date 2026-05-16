@@ -5,6 +5,8 @@ Aqui serão organizados os cursos, projetos, anotações e conceitos aprendidos 
 
 A ideia é acompanhar de forma prática meu desenvolvimento nas áreas relacionadas à inteligência artificial, programação, algoritmos e computação aplicada, consolidando conhecimento por meio de exercícios, implementações e experimentações ao longo da trilha.
 
+Curso em Progresso
+
 ```
 Lorenzo Calabrese Circelli
 Estudante de Engenharia da Computação
